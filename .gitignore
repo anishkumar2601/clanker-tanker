@@ -1,0 +1,8 @@
+backend/.venv/
+backend/.clankershield-data/
+frontend/node_modules/
+frontend/dist/
+__pycache__/
+*.pyc
+.env
+
